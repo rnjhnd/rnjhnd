@@ -1,5 +1,6 @@
 # Hello, I'm Aren John Esoen! 👋
 
+## About Me
 I am passionate about coding and skilled in database management. I enjoy tackling complex problems and crafting elegant solutions. My tech journey began with the BS Computer Science program, and I continue to explore and learn in the ever-evolving world of technology.
 
 ## Education
