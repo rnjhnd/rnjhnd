@@ -19,7 +19,7 @@ I am passionate about coding and skilled in database management. I enjoy tacklin
 - **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 ## Connect with Me
-- LinkedIn: [www.linkedin.com/in/aren-john-esoen-7619a5254](www.linkedin.com/in/aren-john-esoen-7619a5254)
+- LinkedIn: [www.linkedin.com/in/aren-john-esoen-7619a5254](https://www.linkedin.com/in/aren-john-esoen-7619a5254)
 - Email: [esoen.arenjohn@gmail.com](esoen.arenjohn@gmail.com)
 
 Feel free to connect and reach out for discussions, collaborations, or just to say hi! 😊
