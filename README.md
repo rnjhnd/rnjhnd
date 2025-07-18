@@ -2,13 +2,10 @@
   <img height="200" src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png"  />
 </div>
 
-###
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rnjhnd.rnjhnd" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aren+John+Esoen ;" />
 </h1>
-###
+
 
 <div align="center">
   <a href="https://facebook.com/rnjhn.d" target="_blank">
