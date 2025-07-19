@@ -26,7 +26,7 @@
 I'm a dedicated Computer Science student with a passion for **frontend development** and **user experience design**. My journey in tech is driven by the belief that great software should be both functional and beautiful.
 <br><br>
 
-<img align="right" height="275" src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" />
+<img align="right" height="250" src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" />
 
 ### 💡 What I'm Currently Working On
 - 🌱 Mastering **React.js** and modern JavaScript frameworks
