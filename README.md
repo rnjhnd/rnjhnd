@@ -88,8 +88,8 @@ I'm a dedicated Computer Science student with a passion for **frontend developme
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rnjhnd&theme=github_dark&hide_border=false&border_radius=5" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=rnjhnd&theme=algolia&column=3&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" />
+  <img src="https://streak-stats.demolab.com?user=rnjhnd&theme=github-dark-blue&hide_border=false&border_radius=5" height="150" />
+  <img src="https://github-profile-trophy.vercel.app?username=rnjhnd&theme=onestar&column=3&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" />
 </div>
 
 <br>
