@@ -41,11 +41,11 @@ I'm a dedicated Computer Science student with a passion for **frontend developme
 - **Clean Code**: Writing maintainable, scalable solutions
 
 <br>
+<div align="center">
+  <h3><strong>🤝 Let's connect and build something amazing together! 🚀</strong><h3>
+</div>
 
 <div align="center">
-
-<h3><strong>🤝 Let's connect and build something amazing together! 🚀</strong><h3>
-
   <a href="https://facebook.com/rnjhn.d" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
