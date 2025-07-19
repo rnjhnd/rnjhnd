@@ -15,9 +15,9 @@
 
   <h3><em>An aspiring software engineer from the Philippines</em></h3>
 
-  <p>🔭 I’m a Computer Science Student at New Era University<br>
-     📚 I'm currently learning JavaScript and Python<br>
-     ⚡ In my spare time I watch movies/series
+  <p>🎓 Currently studying Computer Science at New Era University<br>
+     💻 Learning JavaScript and Python to deepen my skills in web and software development<br>
+     🎬 When I’m not coding, you'll find me watching movies or bingeing a good series
   </p>
 
   <a href="https://facebook.com/rnjhn.d" target="_blank">
