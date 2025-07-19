@@ -80,6 +80,18 @@ I'm a dedicated Computer Science student with a passion for **frontend developme
 
 </div>
 
+## 📜 Certifications
+<div align="center">
+
+| Certificate | Issued by | Date Issued |
+|:----------:|:---------:|:------------:|
+| [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=13E3343F4D2EBE654DACED149E2AF26C280886F83D88D11018EF1957B2492E08) | Oracle | 2023 |
+| [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A147EA13AA5117FEDF6D82AE585399ABCA5B81196D6824D0DCA923A3161F13BB) | Oracle | 2023 |
+| [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B1E058DE5CF6154F72927FC688ACF75DBF0B2AA2BCB8766BEEF9B0E0E25F0E22) | Oracle | 2023 |
+| [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/0d01e24a42b3433e870cf2ef61f6b4a3) | Cognitive Class | 2023 |
+
+</div>
+
 ## 📈 GitHub Analytics
 
 <div align="center">
