@@ -109,7 +109,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rnjhnd/rnjhnd/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/rnjhnd/rnjhnd/blob/output/github-snake-dark.svg)
 
 ###
 
