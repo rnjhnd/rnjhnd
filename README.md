@@ -153,9 +153,8 @@ I'm a dedicated Computer Science student with a passion for **frontend developme
 
 ## 🐍 Contribution Graph
 
-![snake gif](https://github.com/rnjhnd/rnjhnd/blob/output/github-snake-dark.svg)
-
-<div >
+<div align="center">
+  <img src="https://github.com/rnjhnd/rnjhnd/blob/output/github-snake-dark.svg" alt="snake gif" />
 </div>
 
 ---
