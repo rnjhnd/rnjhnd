@@ -54,6 +54,7 @@ I'm a dedicated Computer Science student with a passion for **frontend developme
 </div>
 
 <div align="center">
+<!--
   <a href="https://facebook.com/rnjhn.d" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
@@ -65,6 +66,20 @@ I'm a dedicated Computer Science student with a passion for **frontend developme
   </a>
   <a href="https://linkedin.com/in/rnjhnd" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+-->
+
+  <a href="https://facebook.com/rnjhn.d" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="75" height="40" alt="facebook logo"  />
+  </a>
+  <a href="mailto:esoen.arenjohn@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="75" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://instagram.com/rnjhn.d" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="75" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://linkedin.com/in/rnjhnd" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="75" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
