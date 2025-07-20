@@ -122,6 +122,7 @@ I'm a dedicated Computer Science student with a passion for **frontend developme
 <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" height="30">
 
 </div>
+<br>
 
 ## 📜 Certifications
 <div align="center">
@@ -134,6 +135,7 @@ I'm a dedicated Computer Science student with a passion for **frontend developme
 | [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/0d01e24a42b3433e870cf2ef61f6b4a3) | Cognitive Class | 2023 |
 
 </div>
+<br>
 
 ## 📈 GitHub Analytics
 
