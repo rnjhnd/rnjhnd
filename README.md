@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-  <h3><strong>Aspiring Software Engineer | Computer Science Graaduate</strong></h3>
+  <h3><strong>Aspiring Software Engineer | Computer Science Graduate</strong></h3>
   <h4><strong></strong></h4>
   <p><em>Passionate about crafting beautiful, interactive web experiences that users love</em></p>
 </div>
